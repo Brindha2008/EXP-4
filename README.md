@@ -53,6 +53,7 @@ WAVEFORM:
 <img width="817" height="1280" alt="image" src="https://github.com/user-attachments/assets/603e49c6-5db2-401a-b97e-cccaf541d120" />
 <img width="802" height="1280" alt="image" src="https://github.com/user-attachments/assets/41921c01-7db1-4848-ae57-de0f277affa0" />
 
+<img width="1280" height="821" alt="image" src="https://github.com/user-attachments/assets/ff898350-8d4a-4917-888c-e69cf41c060d" />
 
 
 RESULT:
