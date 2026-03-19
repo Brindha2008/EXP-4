@@ -46,6 +46,13 @@ TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
+<img width="1280" height="828" alt="image" src="https://github.com/user-attachments/assets/d18edf51-315b-4ff6-9c43-523c119a2a3f" />
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/47675b0f-7c0d-49a3-82d5-362eeedb2944" />
+
+<img width="1280" height="838" alt="image" src="https://github.com/user-attachments/assets/ec5bb776-0d97-4775-a546-173d639f1c8a" />
+<img width="817" height="1280" alt="image" src="https://github.com/user-attachments/assets/603e49c6-5db2-401a-b97e-cccaf541d120" />
+<img width="802" height="1280" alt="image" src="https://github.com/user-attachments/assets/41921c01-7db1-4848-ae57-de0f277affa0" />
+
 
 
 RESULT:
